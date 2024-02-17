@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 😇 익숙하지 않았던 개발, 커밋
+- 💻 이제는 매일 꾸준하게 하다보니 습관이 되었고
+- 🌱 비록 비루하지만 **매일매일 학습하는 꾸준한 개발자**가 되기 위해 목표를 가지고 성장하고있습니다
 <!--
 **jieun0330/jieun0330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
