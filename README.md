@@ -14,7 +14,7 @@
 
 - **소속:** 개인 프로젝트
 - **기간:** 2024년 3월 7일 ~ 24일 (`2주`, 업데이트 진행중)
-- **사용기술:** `UIKit(Code Base)` `MVVM-C` `SnapKit` `Realm` `Alamofire` `FSCalendar` `Kingfisher` `WKWebView`
+- **사용기술:** `UIKit(Code Base)` `MVVM` `SnapKit` `Realm` `Alamofire` `FSCalendar` `Kingfisher` `WKWebView`
 - **Appstore:** <a href="[https://www.google.com/](https://apps.apple.com/kr/app/id6479728983)" target="_blank">https://apps.apple.com/kr/app/id6479728983</a>
 
 |<picture>![Frame 517167433](https://github.com/jieun0330/jieun0330/assets/42729069/51e63963-f1a1-4239-9f08-c187882e83a7)</picture>|<picture>![Frame 517167434](https://github.com/jieun0330/jieun0330/assets/42729069/0c12ed3d-0bcc-476f-854b-e182316171a0)</picture>|<picture>![Frame 517167437](https://github.com/jieun0330/jieun0330/assets/42729069/16350682-f3aa-4a11-8f3c-aea3a5849d9b)</picture>
