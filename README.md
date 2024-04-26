@@ -20,6 +20,28 @@
 |<picture>!![KakaoTalk_Photo_2024-04-10-14-46-57](https://github.com/jieun0330/jieun0330/assets/42729069/71b4c43d-5f29-47de-ad9d-c1ac192d2772)</picture>|<picture>![665x1440_2](https://github.com/jieun0330/jieun0330/assets/42729069/5890565e-094d-476d-9c8c-22e325fc5175)</picture>|<picture>![665x1440_1](https://github.com/jieun0330/jieun0330/assets/42729069/54571b58-520b-47ae-90ab-275556f782a9)</picture>|<picture>![665x1440_3](https://github.com/jieun0330/jieun0330/assets/42729069/3a5f519e-beab-40be-b2c3-903ece40ddf2)</picture>
 |---|---|---|---|
 
+*****
+### **네이버 쇼핑 검색** ([Readme](https://github.com/jieun0330/NaverShoppingAPI_Storyboard))
+> 네이버 쇼핑 API를 통해 상품을 검색하고, 좋아요를 관리하는 앱입니다.
+
+- **소속:** 개인 프로젝트
+- **기간:** 2024년 1월 18일 ~ 22일 (`5일`, 업데이트 진행중)
+- **사용기술:** `UIKit(Storyboard)` `MVC` `SnapKit` `Alamofire` `Kingfisher`
+
+|<picture>![naver_1](https://github.com/jieun0330/jieun0330/assets/42729069/1fe502b3-b498-4780-973f-5b1ed0f7e686)</picture>|<picture>![스크린샷-2024-04-26-오전-11 37 53](https://github.com/jieun0330/jieun0330/assets/42729069/cc1258b5-299e-42f4-82fc-810c918416d7)</picture>|<picture>![naver_2](https://github.com/jieun0330/jieun0330/assets/42729069/53ae6441-44c2-4ac6-a65e-2522fa52cfaa)</picture>|<picture>![스크린샷-2024-04-26-오전-11 33 52](https://github.com/jieun0330/jieun0330/assets/42729069/e6582c87-faa2-402c-b294-180d927c24bb)</picture>
+|---|---|---|---|
+
+*****
+### **비트코인 차트** ([Readme](https://github.com/jieun0330/CoingeckoAPIStudy))
+> 코인의 현재가와 비트코인, NFT에 대한 트렌딩 정보를 확인할 수 있는 앱입니다.
+
+- **소속:** 개인 프로젝트
+- **기간:** 2024년 3월 28일 ~ 4월 3일 (`6일`, 업데이트 진행중)
+- **사용기술:** `UIKit(Code Base)` `MVVM` `Custom Observable` `SnapKit` `Realm` `Alamofire` `Kingfisher`
+
+
+
+
 ##  팀 Projects
 
 <picture>![App-Icon_125](https://github.com/jieun0330/jieun0330/assets/42729069/c2d094ec-3a02-4874-af8e-c1b08470aa3b)</picture>
