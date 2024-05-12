@@ -23,6 +23,25 @@
 
 <br/>
 
+<picture>![App-Icon_125](https://github.com/jieun0330/jieun0330/assets/42729069/bbc7b13c-eb14-4258-a295-6bf4efaa1f34)</picture>
+
+
+
+### **파도 메아리** ([Readme](https://github.com/jieun0330/WaveEcho))
+> 소중한 메시지를 담은 쪽지를 바다 위로 띄워 다른 사람들과 쪽지를 전달하며 소통할 수 있는 앱입니다.
+
+- 개인 프로젝트
+- **기간:** 2024년 4월 10일 ~ 5월 5일 (약 3주, 업데이트 진행중)
+- **사용기술:** `UIKit(Storyboard)` `MVVM` `RxSwift` `Alamofire` `Kingfisher`
+
+|<picture>![로그인](https://github.com/jieun0330/jieun0330/assets/42729069/5a62e47c-5cf1-43e0-b9ce-ed08d9ef9a40)</picture>|<picture>![포스트작성](https://github.com/jieun0330/jieun0330/assets/42729069/fe364134-0a22-4236-993b-d8d0e77d30d5)</picture>|<picture>![댓글 작성](https://github.com/jieun0330/jieun0330/assets/42729069/56acff21-3e5b-4893-aba3-8a83cb0dbdfc)</picture>|<picture>![결제](https://github.com/jieun0330/jieun0330/assets/42729069/a32c7d77-a0ee-492b-8041-63b273da5f80)</picture>
+|---|---|---|---|
+
+
+
+
+<br/>
+
 <picture>![네이버4](https://github.com/jieun0330/jieun0330/assets/42729069/c0de5cfe-72e4-4b0c-9c34-203b7d057002)</picture>
 
 ### **네이버 쇼핑 검색** ([Readme](https://github.com/jieun0330/NaverShoppingAPI_Storyboard))
@@ -34,6 +53,7 @@
 
 |<picture>![스크린샷-2024-04-26-오전-11 37 53](https://github.com/jieun0330/jieun0330/assets/42729069/cc1258b5-299e-42f4-82fc-810c918416d7)</picture>|<picture>![naver_1](https://github.com/jieun0330/jieun0330/assets/42729069/1fe502b3-b498-4780-973f-5b1ed0f7e686)</picture>|<picture>![naver_2](https://github.com/jieun0330/jieun0330/assets/42729069/53ae6441-44c2-4ac6-a65e-2522fa52cfaa)</picture>|<picture>![스크린샷-2024-04-26-오전-11 33 52](https://github.com/jieun0330/jieun0330/assets/42729069/e6582c87-faa2-402c-b294-180d927c24bb)</picture>
 |---|---|---|---|
+
 
 <br/>
 
