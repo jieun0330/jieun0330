@@ -7,5 +7,4 @@
 🌱 **매일매일 학습하여 끊임없이 성장하는 개발자**가 되기 위해 목표를 가지고 꾸준히 하고있습니다
 
 <br/>
-
-🔗 [이력서 전체보기](https://www.rallit.com/hub/resumes/129740/%EB%B0%95%EC%A7%80%EC%9D%80)
+🔗 <a href="https://www.rallit.com/hub/resumes/129740/%EB%B0%95%EC%A7%80%EC%9D%80" target="_blank">이력서 전체보기</a>
