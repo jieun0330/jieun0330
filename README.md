@@ -37,6 +37,5 @@
 
 ##
 
-<br/>
 🔗 <a href="https://www.rallit.com/hub/resumes/129740/%EB%B0%95%EC%A7%80%EC%9D%80" target="_blank">이력서 전체보기</a>
 
