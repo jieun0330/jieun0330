@@ -35,6 +35,15 @@
 - **사용기술:** `SwiftUI` `MVVM` `Tuist` `CreateML` `Moya` `Kingfisher` `MixPanel`
 - [앱스토어 링크](https://apps.apple.com/kr/app/id6472305938)
 
+<br/>
+
+### **네이버 쇼핑 검색** ([Readme](https://github.com/jieun0330/NaverShoppingAPI_Storyboard))
+
+> 네이버 쇼핑 API를 통해 상품을 검색하고, 좋아요를 관리하는 앱입니다.
+- 개인 프로젝트
+- **기간:** 2024.01.18~22 (약 5일, 업데이트 진행중)
+- **사용기술:** `UIKit(Storyboard)` `MVC` `Alamofire` `Kingfisher`
+
 ##
 
 🔗 <a href="https://www.rallit.com/hub/resumes/129740/%EB%B0%95%EC%A7%80%EC%9D%80" target="_blank">이력서 전체보기</a>
