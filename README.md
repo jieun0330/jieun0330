@@ -13,7 +13,7 @@
 ### **생일책** ([Readme](https://github.com/jieun0330/BirthdayBook))
 > 나와 생일이 같은 책들을 확인할 수 있는 앱입니다.
 - 개인 프로젝트
-- **기간:** 2024년 3월 7일~24일 (약 2주, 업데이트 진행중)
+- **기간:** 2024년 3월 7일 ~ 24일 (약 2주, 업데이트 진행중)
 - **사용기술:** `UIKit(Code Base)` `MVVM` `Custom Observable` `FlowLayout` `SnapKit` `Realm` `Alamofire` `FSCalendar` `Kingfisher` `WKWebView` `국립중앙도서관 API` `알라딘 API`
 - [앱스토어 링크](https://apps.apple.com/kr/app/id6479728983)
 
@@ -41,7 +41,7 @@
 
 > 네이버 쇼핑 API를 통해 상품을 검색하고, 좋아요를 관리하는 앱입니다.
 - 개인 프로젝트
-- **기간:** 2024년 1월 18일~22일 (약 5일, 업데이트 진행중)
+- **기간:** 2024년 1월 18일 ~ 22일 (약 5일, 업데이트 진행중)
 - **사용기술:** `UIKit(Storyboard)` `MVC` `Alamofire` `Kingfisher`
 
 ##
