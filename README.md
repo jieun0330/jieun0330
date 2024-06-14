@@ -44,7 +44,3 @@
 - **기간:** 2024년 1월 18일 ~ 22일 (약 5일, 업데이트 진행중)
 - **사용기술:** `UIKit(Storyboard)` `MVC` `Alamofire` `Kingfisher`
 
-##
-
-🔗 <a href="https://www.rallit.com/hub/resumes/129740/%EB%B0%95%EC%A7%80%EC%9D%80" target="_blank">이력서 전체보기</a>
-
