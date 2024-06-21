@@ -10,6 +10,16 @@
 
 ##
 
+
+### **파도 메아리** ([Readme](https://github.com/jieun0330/WaveEcho))
+> 소중한 메시지를 담은 쪽지를 바다 위로 띄워 다른 사람들과 쪽지를 전달하며 소통할 수 있는 앱입니다.
+- 개인 프로젝트
+- **기간:** 2024년 4월 10일 ~ 5월 5일 (약 3주, 업데이트 진행중)
+- **사용기술:** `UIKit(Storyboard)` `MVVM` `RxSwift` `Alamofire` `Kingfisher`
+
+<br/>
+
+
 ### **생일책** ([Readme](https://github.com/jieun0330/BirthdayBook))
 > 나와 생일이 같은 책들을 확인할 수 있는 앱입니다.
 - 개인 프로젝트
@@ -19,11 +29,15 @@
 
 <br/>
 
-### **파도 메아리** ([Readme](https://github.com/jieun0330/WaveEcho))
-> 소중한 메시지를 담은 쪽지를 바다 위로 띄워 다른 사람들과 쪽지를 전달하며 소통할 수 있는 앱입니다.
+### **네이버 쇼핑 검색** ([Readme](https://github.com/jieun0330/NaverShoppingAPI_Storyboard))
+
+> 네이버 쇼핑 API를 통해 상품을 검색하고, 좋아요를 관리하는 앱입니다.
 - 개인 프로젝트
-- **기간:** 2024년 4월 10일 ~ 5월 5일 (약 3주, 업데이트 진행중)
-- **사용기술:** `UIKit(Storyboard)` `MVVM` `RxSwift` `Alamofire` `Kingfisher`
+- **기간:** 2024년 1월 18일 ~ 22일 (약 5일, 업데이트 진행중)
+- **사용기술:** `UIKit(Storyboard)` `MVC` `Alamofire` `Kingfisher`
+
+
+
 
 <br/>
 
@@ -34,13 +48,4 @@
 - **기간:** 2023년 9월 17일 ~ 12월 7일 (약 3개월, 업데이트 진행중)
 - **사용기술:** `SwiftUI` `MVVM` `Tuist` `CreateML` `Moya` `Kingfisher` `MixPanel`
 - [앱스토어 링크](https://apps.apple.com/kr/app/id6472305938)
-
-<br/>
-
-### **네이버 쇼핑 검색** ([Readme](https://github.com/jieun0330/NaverShoppingAPI_Storyboard))
-
-> 네이버 쇼핑 API를 통해 상품을 검색하고, 좋아요를 관리하는 앱입니다.
-- 개인 프로젝트
-- **기간:** 2024년 1월 18일 ~ 22일 (약 5일, 업데이트 진행중)
-- **사용기술:** `UIKit(Storyboard)` `MVC` `Alamofire` `Kingfisher`
 
