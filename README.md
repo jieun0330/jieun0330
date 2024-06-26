@@ -29,6 +29,15 @@
 
 <br/>
 
+### **비트코인** ([Readme](https://github.com/jieun0330/CoingeckoAPIStudy))
+
+> 코인을 검색하고 즐겨찾기로 손쉽게 관리할 수 있는 앱입니다.
+- 개인 프로젝트
+- **기간:** 2024년 2월 27일 ~ 3월 3일 (약 6일, 업데이트 진행중)
+- **사용기술:** `UIKit(Storyboard)` `MVVM` `Custom Observable` `DGCharts` `Alamofire` `Coinecko API`
+
+<br/>
+
 ### **네이버 쇼핑 검색** ([Readme](https://github.com/jieun0330/NaverShoppingAPI_Storyboard))
 
 > 네이버 쇼핑 API를 통해 상품을 검색하고, 좋아요를 관리하는 앱입니다.
